@@ -1,6 +1,6 @@
-# Episode-44: Running Qwen 3.8 on Llama.cpp
+# Episode-44: Qwen 3.8 with Llama.cpp
 
-Carl and Rocky successfully run Qwen 3.8 on Llama.cpp with a 128K context.
+Carl and Rocky finally achieve local LLM Nirvana with Qwen3.8-27B running in Llama.cpp with a 128K context.
 
 📺 YouTube video: https://youtu.be/
 
