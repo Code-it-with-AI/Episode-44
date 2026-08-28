@@ -6,7 +6,7 @@ Carl and Rocky successfully run Qwen 3.8 on Llama.cpp with a 128K context.
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
-For complete instructions on how to get your own Llama.ccp server up and running visit https://github.com/carlfranklin/RunLocalModels/tree/main
+For complete instructions on how to get your own Llama.ccp server up and running visit https://github.com/carlfranklin/RunLocalModels
 
 ## Resource Links
 
