@@ -11,4 +11,4 @@ For complete instructions on how to get your own Llama.ccp server up and running
 ## Resource Links
 
 - **About Rocky Lhotka:** https://about.me/rockfordlhotka
-- **Detailed Instructions:** https://github.com/carlfranklin/RunLocalModels/tree/main
+- **Detailed Instructions:** https://github.com/carlfranklin/RunLocalModels
