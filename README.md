@@ -2,7 +2,7 @@
 
 Carl and Rocky finally achieve local LLM Nirvana with Qwen3.8-27B running in Llama.cpp with a 128K context.
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/WBge6HEojwI
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
